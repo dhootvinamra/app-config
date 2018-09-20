@@ -10,3 +10,6 @@ logging: # <----New sections below
   level:
     io:
       pivotal: DEBUG
+      
+greeting:
+  displayFortune: true # <----Change to true
